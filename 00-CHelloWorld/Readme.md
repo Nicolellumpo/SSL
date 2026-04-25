@@ -1,2 +1,2 @@
-front page de la resolución.
+# Tp 0 Nicole Llumpo
 
